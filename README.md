@@ -1,1 +1,3 @@
-# PowerBI-Dashboard-Global-Electronics-Retailer
+# PowerBI-Dashboard-Global-Electronics-Retailer-Project
+
+This project features the development of a Power BI dashboard for a global electronics retailer, aimed at uncovering insights into business performance and operations. The dashboard highlights key metrics such as total sales, profit margins, customer acquisition trends, and product category performance across regions. It includes interactive visualizations like sales by geography, top-selling products, and monthly revenue trends. Data transformation and modeling were performed using Power Query and DAX to ensure accuracy and efficiency. This project showcases proficiency in data analysis, business intelligence, and visualization, making it a valuable addition to any data-focused portfolio.
